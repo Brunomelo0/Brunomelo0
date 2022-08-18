@@ -1,4 +1,3 @@
-### Hi there 👋
 
 - 📕 I'm studying to be a fullstack dev
 - 🌱 I’m currently learning Javascript, Nodejs and Vuejs
