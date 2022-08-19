@@ -1,10 +1,10 @@
-<h2>
-😁Hi! <br>
+
+😁Hi!<br> 
  📕 I'm studying to be a fullstack dev <br>
  🌱 I’m currently learning Javascript, Nodejs and Vuejs <br>
  📫 How to reach me: brunosilvalustosa4@gmail.com <br>
-</h2>
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
  <h1>
 💻 Tools:
 </h1>
@@ -19,7 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 </div>
-<div> <br> <br>
+<div> <br>
  <h1>
 📈Stats:  
 </h1>
