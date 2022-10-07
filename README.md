@@ -20,6 +20,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" height="40" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" height="40" width="40"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 </div>
 <div> <br>
  <h1>
