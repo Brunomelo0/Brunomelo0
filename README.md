@@ -1,9 +1,3 @@
-
-😁Hi!<br> 
- 📕 I'm studying to be a fullstack dev <br>
- 🌱 I’m currently learning Javascript, Nodejs and Vuejs <br>
- 📫 How to reach me: brunosilvalustosa4@gmail.com <br>
-
 <div style="display: inline_block">
  <h1>
 💻 Tools:
