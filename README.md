@@ -17,6 +17,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg
 </div>
 <div> <br>
  <h1>
+  📕 Currently studing:
+ </h1>
+     <img align="center" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
+</div>
+<div> <br>
+ <h1>
 📈 Stats:  
 </h1>
   <a href="https://github.com/Brunomelo0">
