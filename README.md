@@ -1,6 +1,6 @@
 <div style="display: inline_block">
  <h1>
-💻 Tools:
+Tools:
 </h1>
   <img align="center" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
